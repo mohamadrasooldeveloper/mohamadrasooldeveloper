@@ -24,8 +24,8 @@ I am MohammadRasool, front end developer from Kerman, Iran. I specialize in HTML
 
 ## 🌱 What I'm Learning  
 
-- [TypeScript: Enhancing my JavaScript projects with static typing, better error checking, and improved scalability.]  
-- [Testing with React Testing Library: Writing comprehensive tests for React components to ensure stability and reliability of code.]   
+- TypeScript: Enhancing my JavaScript projects with static typing, better error checking, and improved scalability.
+- Testing with React Testing Library: Writing comprehensive tests for React components to ensure stability and reliability of code.   
 
 ---
 
