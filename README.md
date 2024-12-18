@@ -1,6 +1,6 @@
-# mohamadrasooldeveloper
 
-# 👋 Hi there, I'm [MohammadRasool]  
+
+#  Hi there, I'm MohammadRasool 👋  
 
 ---
 
