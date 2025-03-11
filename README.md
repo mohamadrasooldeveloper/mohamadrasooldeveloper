@@ -16,6 +16,7 @@ I am MohammadRasool, front end developer from Kerman, Iran. I specialize in HTML
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ## Frameworks and Tools 🛠️
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -24,7 +25,6 @@ I am MohammadRasool, front end developer from Kerman, Iran. I specialize in HTML
 
 ## Skills in Progress 🚀
 
-- **TypeScript**: Enhancing my JavaScript projects with static typing, better error checking, and improved scalability.
 - **Testing with React Testing Library**: Writing comprehensive tests for React components to ensure stability and reliability of code.
 - **Next.js**: Learning server-side rendering and static site generation.
   
