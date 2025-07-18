@@ -32,6 +32,6 @@ I am MohammadRasool, front end developer from Kerman, Iran. I specialize in HTML
 ## 🤝 Let's Connect!  
 
 - **Email**: [msj.developer3133@gmail.com](mailto:msj.developer3133@gmail.com)
-- **Telegram**: [@msj_developer)
+- **Telegram**: @msj_developer
 
 ---
