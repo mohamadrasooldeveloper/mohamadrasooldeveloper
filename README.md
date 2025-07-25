@@ -32,7 +32,7 @@ https://msjdeveloper.ir/
 ## 💼 Projects
 
 ### 📊 [mohammadrasool.dev](https://msjdeveloper.ir/)  
-A full-stack financial dashboard for tracking income and expenses.  
+My portfolio website showcasing my skills, projects, and contact information.  
 - **Frontend**: Next.js, TailwindCSS  
 - **Backend**: Django REST Framework  
 - **Database**: PostgreSQL  
