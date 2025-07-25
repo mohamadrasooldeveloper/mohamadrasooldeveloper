@@ -1,4 +1,4 @@
-#  Hi there, I'm MohammadRasool 👋  
+#  Hi there, I'm Rasool 👋  
 
 ---
 
@@ -22,9 +22,10 @@ https://msjdeveloper.ir/
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 
 ---
