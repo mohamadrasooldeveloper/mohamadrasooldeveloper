@@ -1,10 +1,10 @@
-#  Hi there, I'm Rasool 👋  
+#  Hi there, I'm MOHAMADRASOOL 👋  
 
 ---
 
 ## 🌟 About Me  
 
-I am Rasool, a Full Stack Developer from Kerman, Iran. I specialize in HTML, CSS, JavaScript, Python, and Django, and I’m currently deepening my expertise in React and Next.js.I have a deep passion for learning, building real-world projects, and staying up to date with the latest technologies. I love combining beautiful UI with powerful backend logic using Tailwind CSS, PostgreSQL, and Django REST Framework.
+I am MOHAMADRASOOL, a Full Stack Developer from Kerman, Iran. I specialize in HTML, CSS, JavaScript, Python, and Django, and I’m currently deepening my expertise in React and Next.js.I have a deep passion for learning, building real-world projects, and staying up to date with the latest technologies. I love combining beautiful UI with powerful backend logic using Tailwind CSS, PostgreSQL, and Django REST Framework.
 https://msjdeveloper.ir/
 --- 
 
