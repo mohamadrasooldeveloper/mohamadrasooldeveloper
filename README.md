@@ -36,7 +36,7 @@ My portfolio website showcasing my skills, projects, and contact information.
 - **Frontend**: Next.js, TailwindCSS  
 - **Backend**: Django REST Framework  
 - **Database**: PostgreSQL  
-- **Features**: JWT auth, dynamic charts, filters, CSV export
+- **Features**: JWT auth, filters
 
 ---
 
