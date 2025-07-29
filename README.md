@@ -45,10 +45,6 @@ A modern calendar
 - **Frontend**: Next.js, TailwindCSS  
 - **Backend**: PHP
 ---
-
----
-
-
 ## Skills in Progress 🚀
 
 - **Testing with React Testing Library**: Writing comprehensive tests for React components to ensure stability and reliability of code.
